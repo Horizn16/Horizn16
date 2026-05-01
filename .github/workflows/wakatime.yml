@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Update Year Progress
         uses: imkasen/time-progress-bar@main
@@ -28,8 +28,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "YES"
           SHOW_LINES_OF_CODE: "YES"
           SHOW_PROFILE_VIEWS: "YES"
-          SHOW_SHORT_STATS: "YES"
+          SHOW_SHORT_INFO: "YES"
           SHOW_DAYS_OF_WEEK: "YES"
           SHOW_TOTAL_CODE_TIME: "YES"
-          SHOW_COMMIT_TIMELINE: "YES"
           SECTION_NAME: "waka"

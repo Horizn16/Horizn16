@@ -13,6 +13,8 @@ jobs:
 
       - name: Update Year Progress
         uses: imkasen/time-progress-bar@main
+        with:
+          TIME_ZONE: 0
         
 
       - name: Update WakaTime Stats

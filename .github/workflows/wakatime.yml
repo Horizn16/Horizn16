@@ -1,0 +1,38 @@
+name: WakaTime and Year Progress
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    name: Update Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Year Progress
+        uses: yoshi389111/github-profile-year-progress-action@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "YES"
+          SHOW_PROJECTS: "NO"
+          SHOW_TIMEZONE: "YES"
+          SHOW_EDITORS: "YES"
+          SHOW_LANGUAGE_PER_REPO: "YES"
+          SHOW_LINES_OF_CODE: "YES"
+          SHOW_PROFILE_VIEWS: "YES"
+          SHOW_SHORT_STATS: "YES"
+          SHOW_DAYS_OF_WEEK: "YES"
+          SHOW_TOTAL_CODE_TIME: "YES"
+          SHOW_COMMIT_TIMELINE: "YES"
+          SECTION_NAME: "waka"

@@ -15,8 +15,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update Year Progress
-        uses: yoshi389111/github-profile-year-progress@v1
-        with:
+        uses: yoshi389111/github-profile-year-progress@0.7.0
+        env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Update WakaTime Stats

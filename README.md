@@ -21,6 +21,14 @@ hobbies: [Competitive Programming, Chess, Poker, Basketball]
 
 ---
 <!-- Start of Time Progress Bar -->
+``` text
+Year  progress { █████████▓░░░░░░░░░░░░░░░░░░░░  } 33.08 %
+Month progress { ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  } 02.42 %
+Week  progress { ████████████████████▒░░░░░░░░░  } 67.85 %
+```
+
+⏰ *Updated at 2026-05-01 17:59:05 PM UTC+5*
+
 <!-- End of Time Progress Bar -->
 # <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 <!--![](https://github-readme-stats.shion.dev/api?username=Horizn16&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>!-->

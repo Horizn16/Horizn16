@@ -4,7 +4,7 @@ name: Kshitij Kumar Pradhan
 located_in: [Mumbai, India 🇮🇳]
 job: [Student]
 education: ["Bachelors from IIT Bombay"]
-Fields of Interest: ["<ML Research", "Natural Language Processing", "Computer Vision & Medical Imaging", "Scalable Systems Architecture"]
+Fields of Interest: ["ML Research", "Natural Language Processing", "Computer Vision & Medical Imaging", "Scalable Systems Architecture"]
 Currently Learning: ["Full-stack AI Integration", "Large Language Model Optimization", "Cloud-Native Deployment"]
 Ask me about: ["Computer Vision Pipelines", "PyTorch to Production", "High-Performance Computing Hardware"]
 hobbies: [Competitive Programming, Chess, Poker, Basketball]
@@ -20,10 +20,13 @@ hobbies: [Competitive Programming, Chess, Poker, Basketball]
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 ---
-
+<!-- year-progress-start -->
+<!-- year-progress-end -->
 # <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 <!--![](https://github-readme-stats.shion.dev/api?username=Horizn16&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>!-->
 ![](https://streak-stats.demolab.com/?user=Horizn16&theme=gotham&hide_border=false)<br/>
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Horizn16&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo

@@ -13,8 +13,7 @@ jobs:
 
       - name: Update Year Progress
         uses: imkasen/time-progress-bar@main
-        with:
-          TIME_ZONE: +5.5
+        
 
       - name: Update WakaTime Stats
         uses: anmol098/waka-readme-stats@master

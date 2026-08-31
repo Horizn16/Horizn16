@@ -22,12 +22,12 @@ hobbies: [Competitive Programming, Chess, Poker, Basketball]
 ---
 <!-- Start of Time Progress Bar -->
 ``` text
-Year  progress { ███████████████████▓░░░░░░░░░░  } 66.07 %
-Month progress { ████████████████████████████▒░  } 94.10 %
-Week  progress { ██████████████████████████▒░░░  } 88.17 %
+Year  progress { ███████████████████▓░░░░░░░░░░  } 66.35 %
+Month progress { █████████████████████████████▒  } 97.34 %
+Week  progress { ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  } 02.51 %
 ```
 
-⏰ *Updated at 2026-08-30 04:07:10 AM UTC+0*
+⏰ *Updated at 2026-08-31 04:12:39 AM UTC+0*
 
 <!-- End of Time Progress Bar -->
 # <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
